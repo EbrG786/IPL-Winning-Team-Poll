@@ -2,7 +2,12 @@
 A sample web poll application written in Python (Flask).
 Users will be prompted with a poll question and related options. They can vote preferred option(s) and see poll results as a chart. Poll results are then loaded into an internal DB based on sqlite. As alternative, the application can store poll results in an external MySQL database.
 
-#Install the dependencies
+<h1>Web Application</h1>
+![image](https://user-images.githubusercontent.com/82704148/163325798-21ecdd1e-79bc-490e-9e15-5b6123474375.png)
+
+
+<h1>Installing Process</h1>
+Install the dependencies
 
     pip install flask
     pip install flask-sqlalchemy
