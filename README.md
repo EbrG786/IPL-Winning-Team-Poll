@@ -4,11 +4,11 @@ A sample web poll application written in Python (Flask).
 Users will be prompted with a poll question and related options. They can vote preferred option(s) and see poll results as a chart. Poll results are then loaded into an internal DB based on sqlite. As alternative, the application can store poll results in an external MySQL database.
 
 <h1>Web Application</h1>
-<img src='img1.PNG'>
+<a href="#"><img width="100%" src="ipl1.PNG" height="350px"/></a>
 <hr>
-![image](https://user-images.githubusercontent.com/82704148/163326066-57f4ee25-8af6-455d-b93a-507084a0d860.png)
+<a href="#"><img width="100%" src="ipl2.PNG" height="350px"/></a>
 <hr>
-![image](https://user-images.githubusercontent.com/82704148/163326106-0d07536f-b065-40fb-8ba9-5f6b02c3c5cc.png)
+<a href="#"><img width="100%" src="ipl3.PNG" height="350px"/></a>
 <hr>
 
 <h1>Installing Process</h1>
