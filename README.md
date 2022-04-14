@@ -26,5 +26,5 @@ and start the application
     * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 
  <h1>References</h1>
- 1.<a href="https://www.tutorialspoint.com/flask/index.htm">Tutorials Point</a>
+ 1.<a href="https://www.tutorialspoint.com/flask/index.htm">Tutorials Point</a></br>
  2.<a href="https://www.youtube.com/watch?v=Z1RJmh_OqeA">Introduction on Flask</a>
