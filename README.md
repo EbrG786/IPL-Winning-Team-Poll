@@ -25,4 +25,6 @@ and start the application
     Check if a poll already exists into db
     * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 
- Happy polling!
+ <h1>References</h1>
+ 1.<a href="https://www.tutorialspoint.com/flask/index.htm">Tutorials Point</a>
+ 2.<a href="https://www.youtube.com/watch?v=Z1RJmh_OqeA">Introduction on Flask</a>
