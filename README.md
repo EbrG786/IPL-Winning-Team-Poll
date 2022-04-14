@@ -1,5 +1,5 @@
 # Flask-voting-app-for-IPL-teams
-<a href="#"><img align="center" width="50%" height="50%" src="Customer Survey-amico.svg" /></a>
+<a href="#"><img width="50%" height="50%" src="Customer Survey-amico.svg" style="margin-left=40%"/></a>
 <h3>WEBX IA 5</h3>
 A sample web poll application written in Python (Flask).
 Users will be prompted with a poll question and related options. They can vote preferred option(s) and see poll results as a chart. Poll results are then loaded into an internal DB based on sqlite. As alternative, the application can store poll results in an external MySQL database.
